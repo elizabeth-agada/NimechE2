@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding :0;
+    font-family: sans-serif;
+}
+.container{
+margin-top: 5px;
+}
+img{
+    margin-left: 42%;
+    margin-top: 5px;
+}
+h2{
+    text-align: center;
+}
+.glyphicon-pencil{
+    font-size: 30px;
+    color: forestgreen;
+    margin-left: 80%;
+    margin-top: -10px;
+}
+#other{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.form-group{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 55%;
+}
+#submit{
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+}
